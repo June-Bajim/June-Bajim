@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm June Jebiwott</h1>
 <h3 align="center">A Full stack Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=june-bajim" alt="june-bajim" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=june-bajim" alt="june-bajim" /></a> </p> -->
 
 - 🔭 I’m currently working on [Virtual Mechatronics Labs Website](https://vml.dkut.ac.ke/)
 
@@ -32,4 +32,4 @@
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=june-bajim&show_icons=true&locale=en" alt="june-bajim" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=june-bajim&" alt="june-bajim" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=june-bajim&" alt="june-bajim" /></p> -->
